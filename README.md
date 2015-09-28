@@ -31,4 +31,4 @@ Time spent: 15
 
 ### Walkthrough
 
-https://raw.githubusercontent.com/timothytclee/CodePath_Yelp/master/CodePath_Yelp.gif
+![Video Walkthrough](https://raw.githubusercontent.com/timothytclee/CodePath_Yelp/master/CodePath_Yelp.gif)
